@@ -119,7 +119,7 @@ class Ecoledirecte():
 				
 
 
-res =Ecoledirecte("gregetsteph","artiste3873")
+res = Ecoledirecte("yourusername","yourpassword")
 #print(res.text) # display server response (for debugging)
 #print(res.photos) #display all
 #print(res.otherpic) #display pictures found
