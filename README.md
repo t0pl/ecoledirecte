@@ -1,5 +1,5 @@
 # ecoledirecte
-Ecoledirecte stores students' photos far too easily.
+Get someone else's picture via Ecoledirecte!</br>
 This script proves that it is possible to retrieve profile photos of other students in the same school after logging in.
 Warning:
   -These files don't need each other to work
